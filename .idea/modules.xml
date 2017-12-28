@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thread-blockingqueue/thread-blockingqueue.iml" filepath="$PROJECT_DIR$/thread-blockingqueue/thread-blockingqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-lock/thread-lock.iml" filepath="$PROJECT_DIR$/thread-lock/thread-lock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-pool/thread-pool.iml" filepath="$PROJECT_DIR$/thread-pool/thread-pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-socket/thread-socket.iml" filepath="$PROJECT_DIR$/thread-socket/thread-socket.iml" />
+    </modules>
+  </component>
+</project>
